@@ -1,0 +1,19 @@
+{
+  "name": "org.apache.cordova.plugin.tts",
+  "version": "1.0.0",
+  "description": "org.apache.cordova.plugin.tts =========================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmbuthia/org.apache.cordova.plugin.tts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmbuthia/org.apache.cordova.plugin.tts/issues"
+  },
+  "homepage": "https://github.com/fmbuthia/org.apache.cordova.plugin.tts#readme"
+}
